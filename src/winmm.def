@@ -1,0 +1,7 @@
+LIBRARY outputname
+EXPORTS
+	timeBeginPeriod=new_timeBeginPeriod
+	timeEndPeriod=new_timeEndPeriod
+	timeGetSystemTime=new_timeGetSystemTime
+	timeGetTime=new_timeGetTime
+	timeGetDevCaps=new_timeGetDevCaps

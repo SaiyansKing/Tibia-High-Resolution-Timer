@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TibiaHiResTimer", "TibiaHiResTimer.vcxproj", "{992C9D71-7153-42B1-935A-20BF788F9B23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{992C9D71-7153-42B1-935A-20BF788F9B23}.Release|x86.ActiveCfg = Release|Win32
+		{992C9D71-7153-42B1-935A-20BF788F9B23}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {540EB492-D313-4E1C-90FB-127C52347FAB}
+	EndGlobalSection
+EndGlobal
